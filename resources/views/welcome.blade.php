@@ -96,5 +96,5 @@
             </div>
         </div>
     </body>
-    <script type="text/javascript" src="app.js">
+    <script type="text/javascript" src="js/app.js">
 </html>

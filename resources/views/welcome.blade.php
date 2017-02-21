@@ -79,17 +79,22 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Peter Ariosa
                 </div>
+                <h3>developer, artist, musician</h3>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://laravel.com/docs">Original Music</a>
+                    <a href="https://Facebook.com/ariosap">Facebook</a>
+                    <a href="https://ghettoblasting101.tumblr.com">Tune Compendium</a>
+                    <a href="https://twitter.com/w0xy_">Twitter</a>
+                    <a href="https://github.com/pariosa">Github</a>
                 </div>
+                <div id="app">
+                <example></example>
+                 </div>
             </div>
         </div>
     </body>
+    <script type="text/javascript" src="app.js">
 </html>

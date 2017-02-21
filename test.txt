@@ -1,0 +1,16 @@
+test
+t@vps-1077934-6587:/home/laravel# ls
+app        composer.json  database      public     routes      tests
+artisan    composer.lock  package.json  readme.md  server.php  vendor
+bootstrap  config         phpunit.xml   resources  storage     webpack.mix.js
+root@vps-1077934-6587:/home/laravel# vi .env
+root@vps-1077934-6587:/home/laravel# git init
+Reinitialized existing Git repository in /home/laravel/.git/
+root@vps-1077934-6587:/home/laravel# git add .
+root@vps-1077934-6587:/home/laravel# git commit -m "Initial Creation"
+[master 1cb023d] Initial Creation
+ 8 files changed, 3341 insertions(+)
+ create mode 100644 composer.lock
+ mode change 100644 => 100755 storage/app/.gitignore
+ mode change 100644 => 100755 storage/app/public/.gitignore
+ mode change 100644 => 100755 sto

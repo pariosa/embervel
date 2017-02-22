@@ -87,7 +87,7 @@
                 <div class="links">
                     <a href="https://soundcloud.com/ariosa">Original Music</a>
 		    <a href="https://Facebook.com/ariosap">Facebook</a>
-		    <a href="https://grimeethics.net">Radio Station</a>
+		    <a href="http://grimeethics.net">Radio Station</a>
                     <a href="https://ghettoblasting101.tumblr.com">Music Library</a>
                     <a href="https://twitter.com/w0xy_">Twitter</a>
                     <a href="https://github.com/pariosa">Github</a>
